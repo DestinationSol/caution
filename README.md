@@ -1,1 +1,3 @@
-# caution
+# The Caution Module
+
+Handle with care !

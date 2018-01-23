@@ -1,3 +1,4 @@
+![caution](/caution.png "Caution")
 # The Caution Module
 
 Handle with care !

@@ -3,6 +3,8 @@
 
 Handle with care !
 
+This module was created by [digitalripperynr](https://github.com/digitalripperynr/)
+
 ### Ships
 
 This module contains 4 ships and a station (cautionStation).

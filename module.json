@@ -3,5 +3,9 @@
     "version" : "0.0.1",
     "displayName" : "Caution Faction",
     "description" : "Ships and other content to enable the caution faction in-game. Handle with caution!",
-    "dependencies" : ["core"]
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
 }

@@ -3,7 +3,7 @@
 
 Handle with care !
 
-This module was created by [digitalripperynr](https://github.com/digitalripperynr/)
+This module was created by [arpitkamboj](https://github.com/arpitkamboj/)
 
 ### Ships
 

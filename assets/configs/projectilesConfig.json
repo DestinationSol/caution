@@ -2,7 +2,7 @@
     "rbc": {
         "dmg": 3,
         "dmgType": "energy",
-        "spdLen": 6,
+        "speed": 6,
 
         "tex": "caution:rbc",
         "texSz": 0.15,
